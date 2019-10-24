@@ -18,6 +18,7 @@ public class DCNET {
         // TODO code application logic here
         System.out.println("object");
         System.out.println("test");
+        System.out.println("test1");
     }
-    
+
 }
